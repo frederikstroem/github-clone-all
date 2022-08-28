@@ -1,5 +1,5 @@
 # github-clone-all
-Very basic and [bodged](https://www.youtube.com/watch?v=lIFE7h3m40U) together Python script to clone --bare all of your GitHub scripts and Gists. Cloning is done using HTTPS and not SSH.
+Very basic and [bodged together](https://www.youtube.com/watch?v=lIFE7h3m40U) Python script to clone --bare all of your GitHub scripts and Gists. Cloning is done using HTTPS and not SSH.
 
 ## Quck start
 1. Setup Git on local machine.
